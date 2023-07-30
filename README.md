@@ -34,4 +34,9 @@ Before embarking on any project, understanding the problem's essence and its rel
 
 With this systematic approach, I unearthed invaluable insights and flawlessly prepared the data for model training. The art of handling null values, feature engineering, and outlier handling elevated the data quality to unparalleled heights. My armory of class imbalance techniques paved the way for mighty models that aced their journey to conquer the target variable. The enchanting symphony of different models serenaded my senses, leading to the triumphant choice of oversampling as the champion! Armed with knowledge, innovation, and unwavering resolve, I emerged victorious in the realm of online payment fraud detection!
 
-![Project Diagram]((https://drive.google.com/drive/u/0/my-drive)https://drive.google.com/drive/u/0/my-drive)
+## Dashboard
+![Project Diagram](Page1.png)
+![Project Diagram](Page2.png)
+![Project Diagram](Page3.png)
+
+
